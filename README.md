@@ -6,6 +6,8 @@ This is a script that runs through the process of bootstraping a react app with 
 
 It can be quite challenging to git all these things setup and working together, this project makes it a single command.
 
+## Usage
+
 ```
 mkapp [appname]
 ```
